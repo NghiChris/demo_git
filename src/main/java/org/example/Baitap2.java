@@ -86,6 +86,7 @@ public class Baitap2 {
 
         System.out.println(danhGia);
 
+        System.out.println("Hello Test05");
 
 
     }
